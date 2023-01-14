@@ -12,4 +12,9 @@ Creating Python virtual environment
 `python3 -m venv .env`
 
 Activating the environment
-`source env/bin/activate`
+`source .env/bin/activate`
+
+mailhog
+celery
+celery beat
+
